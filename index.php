@@ -15,3 +15,5 @@ if( !isset($_SERVER['PHP_AUTH_USER']) )
 include("xcache.php");
 
 echo phpinfo();
+
+echo phpinfo();
